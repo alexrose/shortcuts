@@ -1,0 +1,28 @@
+<xml version="1.0" encoding="utf-8">
+    <sites>
+        <site>
+            <name>My 1</name>
+            <style>style1</style>
+            <link>https://my.domain.tld</link>
+            <image>images/pic01.jpg</image>
+        </site>
+        <site>
+            <name>My 2</name>
+            <style>style2</style>
+            <link>http://my.domain.tld:1234</link>
+            <image>images/pic02.jpg</image>
+        </site>
+        <site>
+            <name>My 3</name>
+            <style>style3</style>
+            <link>http://my.domain.tld:4567</link>
+            <image>images/pic03.jpg</image>
+        </site>
+        <site>
+            <name>My 4</name>
+            <style>style4</style>
+            <link>http://my.domain.tld:7890</link>
+            <image>images/pic04.jpg</image>
+        </site>
+    </sites>
+</xml>
